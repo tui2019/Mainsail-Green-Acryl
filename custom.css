@@ -5,7 +5,7 @@
     transition: 0.3s;
 }
 
-.active-nav-item:hover{
+.active-nav-item:not(.sidebar-logo):hover{
     background: #d0f3ce;
 }
 
